@@ -5,3 +5,5 @@ NPM : 2306165710
 Kelas : PBP A
 
 Hobi : Me time
+
+Jurusan : Sistem Informasi 
